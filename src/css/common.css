@@ -1,1 +1,14 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+.country__item__img {
+  width: 100px;
+}
+
+.country__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.country__item:not(:last-child) {
+  margin-bottom: 12px;
+}
