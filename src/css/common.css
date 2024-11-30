@@ -12,3 +12,8 @@
 .country__item:not(:last-child) {
   margin-bottom: 12px;
 }
+
+.country__img {
+  width: 300px;
+  height: 200px;
+}
