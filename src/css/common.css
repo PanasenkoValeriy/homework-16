@@ -17,3 +17,23 @@
   width: 300px;
   height: 200px;
 }
+.country__title {
+  font-size: 20px;
+}
+
+.title {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.country__thumb {
+  display: flex;
+  gap: 20px;
+}
+
+.country__content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
